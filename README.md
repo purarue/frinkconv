@@ -25,7 +25,7 @@ Copy the `frinkconv` script onto your `$PATH` and make it executable
 Could use [`basher`](https://github.com/basherpm/basher) to do that for you:
 
 ```bash
-basher install seanbreckenridge/frinkconv
+basher install purarue/frinkconv
 ```
 
 ## Examples
